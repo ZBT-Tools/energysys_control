@@ -1,3 +1,5 @@
+
+
 # energysys_control (Soon!)
 
 Identifying most promising energy conversion systems for stationary and mobile applications can be challenging due to an increasing number of alternative fuel options and a wide range of energy conversion technologies such as different types of fuel cells, chemical reactors and batteries in addition to application-specific requirements. Investigating all possible designs of the solution space with detailed physics-based system models during the concept phase is cumbersome and does not provide a consistent basis for global optimization approaches. Given the increasing importance of flexibility requirements due to fluctuating renewable energy sources, the influence of system dynamics, i.e. load changes, start-up and shut-down processes, also for stationary applications in addition to the inherently flexible loads of mobile applications, should already be considered in the early design phases.
@@ -12,3 +14,5 @@ Exemplary comparison of two different Ammonia-based system designs for marine ap
 
 See also:
 https://github.com/ZBT-Tools/energysys_components
+
+![image](https://github.com/ZBT-Tools/energysys_control/assets/94350939/10aa22e4-8d10-43cb-83d5-f5385843d4d0)
