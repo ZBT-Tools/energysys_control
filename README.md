@@ -10,7 +10,14 @@ Soon!
 
 ![image](https://github.com/ZBT-Tools/energysys_control/assets/94350939/ee7dcd20-b4a8-49ae-90d2-587b78203efd)
 
-Exemplary comparison of two different Ammonia-based system designs for marine applications, combustion engine based vs. fuel cell and battery based (left) and transient system responses to dynamic load requirements (right)
+*Exemplary comparison of two different Ammonia-based system designs for marine applications, combustion engine based vs. fuel cell and battery based (left) and transient system responses to dynamic load requirements (right)*
+
+![image](https://github.com/ZBT-Tools/energysys_control/assets/94350939/9a6bb4da-00ff-4474-900c-71bb26f93563)
+*Interconnection of individual energy conversion components to the overall topology of the energy conversion system, consisting of SOFC and PEM fuel cell modules. The interconnection of individual modules through the main energy conversion paths is shown.*
+
+![image](https://github.com/ZBT-Tools/energysys_control/assets/94350939/d30e9801-e4dd-4d99-8ebd-5f28782ba9a8)
+*Main enthalpy currents of the energy conversion system during a high load demand. Both SOFC and PEM modules supply the required power. All PEM modules are operated with optimised efficiency, but only four cracker modules.*
+
 
 See also:
 https://github.com/ZBT-Tools/energysys_components
