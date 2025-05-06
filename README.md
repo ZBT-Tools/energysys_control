@@ -24,3 +24,4 @@ See also:
 https://github.com/ZBT-Tools/energysys_components
 
 ![image](https://github.com/ZBT-Tools/energysys_control/assets/94350939/10aa22e4-8d10-43cb-83d5-f5385843d4d0)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/428a9706-4c2f-401e-8869-f1a9f911c9b3" />
